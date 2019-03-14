@@ -1,0 +1,46 @@
+{
+	"profile":{
+	   "img":"images (4).jpg",
+	    "name":"PRIYA",
+		"roll":"1282",
+		"place":"Guntur",
+		"des":"student"
+	},
+	"career":{
+		"info":"i seek a position where i can explore my talents for the benifits of the organisation "
+	},
+	"education":[
+		{
+	    "sno":"1",
+		"degree":"b.tech",
+		"institute":"Vignan Nirula",
+		"per":"82%",
+		"yop":"2021"
+	},
+    {
+    	"sno":"2",
+		"degree":"intermediate",
+		"institute":"Bhashyam",
+		"per":"93.8%",
+		"yop":"2017"
+	},	
+    {
+    	"sno":"3",
+		"degree":"SSC",
+		"institute":"Bhashyam",
+		"per":"95%",
+		"yop":"2015"
+	}
+ ],
+	"languages":[
+		{
+		"info":"English"
+		},
+        {
+		"info":"Telugu"
+		},
+		{
+		"info":"Hindi"
+		}
+	]
+}
